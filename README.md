@@ -1,2 +1,2 @@
 # pygame-project
-Advanced Course in Programming - Python (5cr)
+Final project for the Advanced Course in Programming in Python. Multiplayer game in PyGame. 
