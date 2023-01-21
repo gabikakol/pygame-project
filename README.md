@@ -1,5 +1,5 @@
 # PyGame project
-Final project for the Advanced Course in Programming in Python: multiplayer game in PyGame. 
+Final project for the Advanced Course in Programming in Python: multiplayer game *MONEY HUNT* in PyGame. 
 
 ## User guide
 Player 1 - ghost <br/>
